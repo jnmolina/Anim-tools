@@ -1,0 +1,16 @@
+How to install:
+
+Place scripts in Documents\maya\scripts
+Place icons in Documents\maya\[version]/prefs/icons
+
+For quick use:
+Create a shelf button with the command:
+import jnm_motrails;jnm_motrails.setMoTrails()
+
+Double click command:
+import jnm_motrails;jnm_motrails.win()
+
+Popup Menu Items:
+Options [MEL] - CreateMotionTrailOptions;
+Cleanup Last [Python] - import jnm_motrails;jnm_motrails.clearLastMoTrails()
+Cleanup All [Python] - import jnm_motrails;jnm_motrails.clearAllMoTrails()

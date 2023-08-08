@@ -1,0 +1,7 @@
+How to install:
+
+Place scripts in Documents\maya\scripts
+Place icons in Documents\maya\[version]/prefs/icons
+
+Create a shelf button:
+import jnm_setselect;jnm_setselect.win()
