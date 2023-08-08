@@ -1,0 +1,6 @@
+How to install:
+
+Place scripts in Documents\maya\scripts
+Place icons in Documents\maya\[version]/prefs/icons
+
+Use drag and drop script to create a shelf button.
